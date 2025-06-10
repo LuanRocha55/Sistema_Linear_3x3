@@ -46,9 +46,26 @@ z = 0.78125
 - **Regra de Sarrus**: cálculo de determinantes 3x3.
 - **Regra de Cramer**: resolução de sistemas lineares com matriz invertível.
 
-## 📁 Arquivo principal
+## 🌐 Interface Web (HTML)
 
-- `cramer-system.py`
+Este projeto também inclui uma **calculadora interativa em HTML** com visual moderno e explicações passo a passo.
+
+### Recursos:
+- Interface responsiva com TailwindCSS.
+- Entrada para os coeficientes da matriz e vetor B.
+- Cálculo visual dos determinantes usando a Regra de Sarrus.
+- Apresentação das etapas da Regra de Cramer de forma dinâmica.
+- Seções colapsáveis com fundamentos teóricos.
+
+### 📂 Arquivo:
+- `calculadora-cramer.html`
+
+> Para usar, basta abrir o arquivo HTML em qualquer navegador moderno.
+
+## 📁 Arquivos do projeto
+
+- `cramer-system.py`: versão em Python.
+- `calculadora-cramer.html`: versão web interativa.
 
 ## 👨‍💻 Equipe
 
